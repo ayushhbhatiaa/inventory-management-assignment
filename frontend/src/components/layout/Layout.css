@@ -1,0 +1,17 @@
+body{
+
+    margin:0;
+
+    background:#edf2f7;
+
+    font-family:Arial, Helvetica, sans-serif;
+}
+
+.layout{
+
+    padding:30px;
+
+    max-width:1400px;
+
+    margin:auto;
+}
